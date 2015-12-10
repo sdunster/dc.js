@@ -61,5 +61,6 @@
         "dc.js.map"
       ]
     }
-  ]
+  ],
+  "browser": "dc.js"
 }
